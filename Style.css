@@ -1,0 +1,248 @@
+/* CSS Document */
+#logo{
+  max-height:42px;
+  margin-right:10px;
+  margin-top:0px;
+  display:inline-block;
+}
+.navbar{
+	background-color: orange;
+	border-color:#FFF;
+	color: white;
+	margin-top:-7px;
+	margin-left:-7px;
+	margin-right:-7px;
+	font-size: 24px;
+	font-weight:bold;
+	padding:10px 100px 10px 100px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	text-decoration:none;
+}
+body{
+	font-family: "helvatical Neue";
+	font-size: 18px;
+	line-height: 1.42857143;
+	color: white;
+	background-color: grey;
+	text-align: center;
+}
+.navbar #index {
+	font-size: 18px;
+	color: white;
+	text-decoration:none;
+}
+.navbar #home{
+	font-size: 18px;
+	margin-left:600px;
+	margin-right:20px;
+	color: white;
+	text-decoration:none;
+}
+.navbar #tugas2 {
+	font-size: 18px;
+	color: white;
+	margin-right:20px;
+	text-decoration:none;
+}
+.navbar #tugas3 {
+	font-size: 18px;
+	color: white;
+	margin-right:20px;
+	text-decoration:none;
+}
+.navbar #tugas4 {
+	font-size: 18px;
+	color: white;
+	margin-right:20px;
+	text-decoration:none;
+}
+.navbar #profil{
+	font-size: 18px;
+	margin-left:600px;
+	margin-right:20px;
+	color: white;
+	text-decoration:none;
+}
+.navbar #Profil{
+	font-size: 18px;
+	margin-right:20px;
+	color: white;
+	text-decoration:none;
+}
+.navbar #login {
+	font-size: 18px;
+	color: white;
+	margin-left:760px;
+	margin-right:20px;
+	text-decoration:none;
+}
+.navbar #account {
+	font-size: 18px;
+	color: white;
+	text-decoration:none;
+}
+.container{
+	width: 500px;
+	height: 400px;
+	text-align: center;
+	background-color:  rgba(243, 156, 18,0.6);
+	border-radius: 4px;
+	margin: 0 auto;
+	margin-top: 150px;
+}
+.container img{
+	width: 120px;
+	height: 120px;
+	margin-top: -60px;
+	margin-bottom: 30px;
+	text-align: center;
+}
+.container table tr td{
+	height: 30px;
+	width: 300px;
+	font-size: 22px;
+	border:none;
+	margin-bottom: 20px;
+	padding-left: 30px;
+	text-align: left;
+
+}
+.h1{
+	text-align: center;
+	font-size: 24px;
+	
+}
+.belikoin {
+	font-size: 16px;
+	color: #FFF;
+	text-decoration: none;
+	background-color: gray;
+	text-align: right;
+	padding-right:10px;
+	font-family:Verdana, Geneva, sans-serif;
+}
+.belikoin #koin {
+	width:40px;
+	padding-right:100px;
+}
+.belikoin p {
+	font-size: 18px;
+	color: #FFF;
+	text-decoration: none;
+}
+.belikoin p a {
+	text-decoration: none;
+	color: white;
+}
+#Search{
+	padding-right:100px;
+	width:100px;
+	height:20px;
+}
+#button{
+	margin-right:100px;
+}
+.row .item1 .camera {
+	font-family: "helvatical Neue";
+	color: white;
+	text-decoration: none;
+	text-align: center;
+}
+.row .item2 .laptop{
+	font-family: "helvatical Neue";
+	color: white;
+	text-decoration: none;
+	text-align: center;
+}
+.row .item3 .printer{
+	font-family: "helvatical Neue";
+	color: white;
+	text-decoration: none;
+	text-align: center;
+}
+.row .item4 .voucher{
+	font-family: "helvatical Neue";
+	color: white;
+	text-decoration: none;
+	text-align: center
+}
+.row .item5 .handphone{
+	font-family: "helvatical Neue";
+	color: white;
+	text-decoration: none;
+	text-align: center
+}
+.image {
+	font-family: "helvatical Neue";
+	text-align: center;
+	padding-left:47px;
+	padding-right:47;
+	width: 1252px;
+	color: #000;
+}
+.image table tr th .product1 {
+	font-family: "helvatical Neue";
+	color: #000;
+	background-color: #FFF;
+	text-decoration: none;
+}
+.image table tr th .product2 {
+	font-family: "helvatical Neue";
+	color: #000;
+	background-color: #FFF;
+	text-decoration:none;
+}
+.image table tr th .product3 {
+	font-family: "helvatical Neue";
+	color: #000;
+	background-color: #FFF;
+	text-decoration:none;
+}
+.image table tr th .product4 {
+	font-family: "helvatical Neue";
+	color: #000;
+	text-decoration: none;
+	background-color: #FFF;
+	text-align: center;
+}
+.image table tr th .product5 {
+	font-family: "helvatical Neue";
+	color: #000;
+	background-color: #FFF;
+	text-decoration:none;
+}
+.image table tr th .product6 {
+	font-family: "helvatical Neue";
+	color: #000;
+	background-color: #FFF;
+	text-decoration:none;
+}
+.image table tr th .product7 {
+	font-family: "helvatical Neue";
+	color: #000;
+	background-color: #FFF;
+	text-decoration:none;
+}
+.image table tr th .product8 {
+	font-family: "helvatical Neue";
+	color: #000;
+	text-decoration: none;
+	background-color: #FFF;
+	text-align: center
+}
+.aboutBid {
+	background-color:#292c2f;
+	box-shadow:0 1px 1px 0 rgba(0, 0, 0, 0.12);
+	box-sizing:border-box;
+	width:100%;
+	text-align:left;
+	font:bold 16px sans-serif;
+	padding:55px 50px;
+	margin-top:80px;
+	bottom:0;
+	color:#fff;
+}
+.aboutBid .kaki h3 {
+	text-decoration:none;
+	color:#fff;
+}
